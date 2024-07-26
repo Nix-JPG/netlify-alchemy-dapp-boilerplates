@@ -17,7 +17,7 @@ export default function InstructionsComponent() {
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://cdn.discordapp.com/attachments/615921349440831510/752856506046742528/welcome.png?ex=66a43482&is=66a2e302&hm=edc83d1bbb44853e58322c05d0b443e013857df49783452ec23f2746ee9baeb3&"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
