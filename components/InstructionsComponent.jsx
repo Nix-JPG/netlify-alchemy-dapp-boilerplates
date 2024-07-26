@@ -9,8 +9,8 @@ export default function InstructionsComponent() {
 					Tools<span>Praktikum kimia</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					Selamat bekerja{" "}
+					<span>PRAKTIKUM KIMIA DASAR</span>
 				</p>
 			</header>
 
