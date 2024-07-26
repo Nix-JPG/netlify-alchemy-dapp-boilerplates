@@ -5,9 +5,9 @@ export default function InstructionsComponent() {
 	return (
 		<div className={styles.container}>
 			<header className={styles.header_container}>
-				<h1>
-					Tools<span>Praktikum kimia</span>
-				</h1>
+				<h3>
+					Tools <span>Praktikum kimia</span>
+				</h3>
 				<p>
 					Selamat bekerja{" "}
 					<span>PRAKTIKUM KIMIA DASAR</span>
